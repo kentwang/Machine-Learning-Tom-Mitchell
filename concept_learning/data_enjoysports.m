@@ -11,18 +11,16 @@ name = {"EnjoySport",
   "Water", 
   "Forecast"};
 
-varLevel = {{"Yes", "No"}, 
-  {"Sunny", "Raining", "Cloudy"}, 
+attrLevel = {{"Sunny", "Raining", "Cloudy"}, 
   {"Warm", "Cold"}, 
   {"Normal", "High"}, 
   {"Strong", "Weak"}, 
   {"Warm", "Cool"}, 
   {"Same", "Change"}};
   
-varLevelNum = {{1, 2},
-  {1, 2, 3}, 
-  {1, 2}, 
-  {1, 2},
-  {1, 2},
-  {1, 2},
-  {1, 2}};
+attrLevelNum = {[1, 2, 3], 
+  [1, 2], 
+  [1, 2],
+  [1, 2],
+  [1, 2],
+  [1, 2]};
