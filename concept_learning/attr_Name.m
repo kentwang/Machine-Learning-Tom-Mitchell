@@ -1,1 +1,0 @@
-attrName = {"EnjoySport", "Sky", "AirTemp", "Humidity", "Wind", "Water", "Forecast"};
