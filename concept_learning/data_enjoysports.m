@@ -18,3 +18,11 @@ varLevel = {{"Yes", "No"},
   {"Strong", "Weak"}, 
   {"Warm", "Cool"}, 
   {"Same", "Change"}};
+  
+varLevelNum = {{1, 2},
+  {1, 2, 3}, 
+  {1, 2}, 
+  {1, 2},
+  {1, 2},
+  {1, 2},
+  {1, 2}};
